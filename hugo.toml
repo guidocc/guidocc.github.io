@@ -1,0 +1,8 @@
+baseURL = 'https://en-tu-ciudad.github.io/'
+languageCode = 'es'
+title = 'En tu ciudad'
+theme = 'ananke'
+
+[params]
+  description = 'Blog personal sobre mi ciudad'
+  author = 'Olaf'
